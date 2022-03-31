@@ -1,6 +1,6 @@
 Hello, my name is Cherif Deme, french computer science sudent.
 
-I've worked on several projetcs as a student, which have allowed me to discover and practise many programming languages such as Java(💞️), C++/C#, Visual Basic, javascript among others.
+I've worked on several projetcs as a student, which have allowed me to discover and practise many programming languages such as Java, C++/C#, Visual Basic, javascript among others.
 I'll be using this repository to display my work.
 
 I'm currently leanring React/React-Native for futur projects, specifically ones related to app development.
